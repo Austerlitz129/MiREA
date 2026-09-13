@@ -1,0 +1,76 @@
+﻿QA_ID,Question
+GM_01,What microbiota are associated with gene CCL20?
+GM_02,What microbiota are associated with gene TNF?
+GM_03,What microbiota are associated with gene IL6?
+GM_04,What microbiota are associated with gene IL1B?
+GM_05,What microbiota are associated with gene IL10?
+GM_06,What microbiota are associated with gene TLR4?
+GM_07,What microbiota are associated with gene IL17A?
+GM_08,What microbiota are associated with gene IFNG?
+GM_09,What microbiota are associated with gene FOXP3?
+GM_10,What microbiota are associated with gene IL13?
+GM_11,What microbiota are associated with gene IL4?
+GM_12,What microbiota are associated with gene CCL2?
+GM_13,What microbiota are associated with gene CXCL8?
+GM_14,What microbiota are associated with gene IL22?
+GM_15,What microbiota are associated with gene TLR2?
+GM_16,What microbiota are associated with gene CXCL2?
+GM_17,What microbiota are associated with gene IL5?
+GM_18,What microbiota are associated with gene MYD88?
+GM_19,What microbiota are associated with gene TJP1?
+GM_20,What microbiota are associated with gene BDNF?
+GM_21,What microbiota are associated with gene CLDN1?
+GM_22,What microbiota are associated with gene FFAR2?
+GM_23,What microbiota are associated with gene IL12A?
+GM_24,What microbiota are associated with gene IL2?
+GM_25,What microbiota are associated with gene MAPK1?
+MG_01,What metabolites are associated with gene CXCL8?
+MG_02,What metabolites are associated with gene IL6?
+MG_03,What metabolites are associated with gene TNF?
+MG_04,What metabolites are associated with gene AHR?
+MG_05,What metabolites are associated with gene CCL2?
+MG_06,What metabolites are associated with gene IL1B?
+MG_07,What metabolites are associated with gene BAX?
+MG_08,What metabolites are associated with gene EGFR?
+MG_09,What metabolites are associated with gene FFAR2?
+MG_10,What metabolites are associated with gene FFAR3?
+MG_11,What metabolites are associated with gene BCL2?
+MG_12,What metabolites are associated with gene FOXP3?
+MG_13,What metabolites are associated with gene MUC2?
+MG_14,What metabolites are associated with gene TP53?
+MG_15,What metabolites are associated with gene AKT1?
+MG_16,What metabolites are associated with gene CAT?
+MG_17,What metabolites are associated with gene CCL3?
+MG_18,What metabolites are associated with gene CD14?
+MG_19,What metabolites are associated with gene CD163?
+MG_20,What metabolites are associated with gene CD44?
+MG_21,What metabolites are associated with gene CXCR2?
+MG_22,What metabolites are associated with gene FOS?
+MG_23,What metabolites are associated with gene GSK3B?
+MG_24,What metabolites are associated with gene HDAC1?
+MG_25,What metabolites are associated with gene HDAC4?
+MM_01,What metabolites are associated with microbiota Escherichia coli?
+MM_02,What metabolites are associated with microbiota Bacteroides thetaiotaomicron?
+MM_03,What metabolites are associated with microbiota Bifidobacterium?
+MM_04,What metabolites are associated with microbiota Bifidobacterium longum?
+MM_05,What metabolites are associated with microbiota Faecalibacterium prausnitzii?
+MM_06,What metabolites are associated with microbiota Ruminococcus?
+MM_07,What metabolites are associated with microbiota Bacteroides fragilis?
+MM_08,What metabolites are associated with microbiota Bifidobacterium breve?
+MM_09,What metabolites are associated with microbiota Escherichia?
+MM_10,What metabolites are associated with microbiota Bacteroides?
+MM_11,What metabolites are associated with microbiota Bacteroides ovatus?
+MM_12,What metabolites are associated with microbiota Clostridium?
+MM_13,What metabolites are associated with microbiota Eubacterium?
+MM_14,What metabolites are associated with microbiota Klebsiella?
+MM_15,What metabolites are associated with microbiota Akkermansia?
+MM_16,What metabolites are associated with microbiota Akkermansia muciniphila?
+MM_17,What metabolites are associated with microbiota Bifidobacterium animalis?
+MM_18,What metabolites are associated with microbiota Bifidobacterium bifidum?
+MM_19,What metabolites are associated with microbiota Enterococcus faecalis?
+MM_20,What metabolites are associated with microbiota Lactobacillus gasseri?
+MM_21,What metabolites are associated with microbiota Megasphaera?
+MM_22,What metabolites are associated with microbiota Shigella?
+MM_23,What metabolites are associated with microbiota Acinetobacter?
+MM_24,What metabolites are associated with microbiota Clostridium butyricum?
+MM_25,What metabolites are associated with microbiota Coprococcus?
