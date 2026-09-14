@@ -1,0 +1,3 @@
+1	ADAMTS3	Clostridium
+2	ADAMTS3	Helicobacter pylori
+3	ADAMTS3	Mycobacterium

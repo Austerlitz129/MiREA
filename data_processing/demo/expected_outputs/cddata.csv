@@ -1,0 +1,9 @@
+﻿GENE,Microbiota,a,b,c,Jaccard,Overlap,immune,p
+IL1B,Candida,1,2,0,0.3333333333333333,1.0,,
+IL1B,Escherichia coli,1,2,0,0.3333333333333333,1.0,,
+IL1B,Helicobacter pylori,2,1,1,0.5,0.6666666666666666,,
+IL6,Candida,1,1,0,0.5,1.0,Dendritic cell,7.3634520397203e-16
+IL6,Helicobacter pylori,2,0,1,0.6666666666666666,1.0,Dendritic cell,7.3634520397203e-16
+TNF,Candida,1,3,0,0.25,1.0,Dendritic cell,7.3634520397203e-16
+TNF,Escherichia coli,1,3,0,0.25,1.0,Dendritic cell,7.3634520397203e-16
+TNF,Helicobacter pylori,3,1,0,0.75,1.0,Dendritic cell,7.3634520397203e-16

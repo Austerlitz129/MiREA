@@ -1,0 +1,167 @@
+﻿SYMBOL,cell,cell_id
+CD14,Myeloid cell,60
+CD163,Myeloid cell,60
+CXCL8,Myeloid cell,60
+CD86,Myeloid cell,60
+CD2,Myeloid cell,60
+CD4,Myeloid cell,60
+CD80,Myeloid cell,60
+TLR2,Myeloid cell,60
+TLR4,Myeloid cell,60
+TLR9,Myeloid cell,60
+CCR2,Myeloid cell,60
+S100A12,Myeloid cell,60
+CD19,Myeloid cell,60
+MPO,Myeloid cell,60
+CX3CR1,Myeloid cell,60
+CCL2,Myeloid cell,60
+FCGR3A,Myeloid cell,60
+CD68,Myeloid cell,60
+CD33,Myeloid cell,60
+LAMP3,Myeloid cell,60
+CSF1R,Myeloid cell,60
+PTPRC,Myeloid cell,60
+CD209,Myeloid cell,60
+CEACAM3,Myeloid cell,60
+LYZ,Myeloid cell,60
+CSTB,Myeloid cell,60
+CSF2RA,Myeloid cell,60
+IL3RA,Myeloid cell,60
+CASK,Myeloid cell,60
+FUT4,Myeloid cell,60
+CEACAM8,Myeloid cell,60
+ITGA2B,Myeloid cell,60
+ITGAM,Myeloid cell,60
+S100A8,Myeloid cell,60
+PF4,Myeloid cell,60
+FCN1,Myeloid cell,60
+CCR7,Dendritic cell,43
+CD86,Dendritic cell,43
+CD80,Dendritic cell,43
+CD163,Dendritic cell,43
+CD14,Dendritic cell,43
+CCR2,Dendritic cell,43
+CCR6,Dendritic cell,43
+CCL20,Dendritic cell,43
+CD4,Dendritic cell,43
+TLR9,Dendritic cell,43
+IL6,Dendritic cell,43
+TNF,Dendritic cell,43
+CD19,Dendritic cell,43
+HLA-DRA,Dendritic cell,43
+HLA-DRB1,Dendritic cell,43
+CD1C,Dendritic cell,43
+FCER1A,Dendritic cell,43
+CD209,Dendritic cell,43
+LAMP3,Dendritic cell,43
+CLEC10A,Dendritic cell,43
+CD83,Dendritic cell,43
+CLEC9A,Dendritic cell,43
+CD34,Dendritic cell,43
+IL3RA,Dendritic cell,43
+NRP1,Dendritic cell,43
+CLEC4C,Dendritic cell,43
+THBD,Dendritic cell,43
+CD40,Dendritic cell,43
+JCHAIN,Dendritic cell,43
+LILRA4,Dendritic cell,43
+MZB1,Dendritic cell,43
+CST3,Dendritic cell,43
+IL5RA,Dendritic cell,43
+CD80,M1 macrophage,40
+CCR7,M1 macrophage,40
+TNF,M1 macrophage,40
+CD86,M1 macrophage,40
+TLR2,M1 macrophage,40
+TLR4,M1 macrophage,40
+CD163,M1 macrophage,40
+CCL2,M1 macrophage,40
+CXCL8,M1 macrophage,40
+IL6,M1 macrophage,40
+CD68,M1 macrophage,40
+TREM2,M1 macrophage,40
+CD40,M1 macrophage,40
+CCL5,M1 macrophage,40
+FCGR3A,M1 macrophage,40
+CXCL10,M1 macrophage,40
+FCGR1A,M1 macrophage,40
+FCGR2A,M1 macrophage,40
+SELP,M1 macrophage,40
+IL7R,M1 macrophage,40
+CCL4,M1 macrophage,40
+TSPO,M1 macrophage,40
+NOX1,M1 macrophage,40
+FPR3,M1 macrophage,40
+SIGLEC1,M1 macrophage,40
+PTGS2,M1 macrophage,40
+NOS2,M1 macrophage,40
+IL12A,M1 macrophage,40
+IRF5,M1 macrophage,40
+SOCS3,M1 macrophage,40
+CD163,Macrophage,1
+CD14,Macrophage,1
+CD80,Macrophage,1
+CD19,Macrophage,1
+S100A12,Macrophage,1
+IL10,Macrophage,1
+TNF,Macrophage,1
+CD86,Macrophage,1
+CCR7,Macrophage,1
+CX3CR1,Macrophage,1
+TLR2,Macrophage,1
+CCR2,Macrophage,1
+CD4,Macrophage,1
+CXCL8,Macrophage,1
+CCL2,Macrophage,1
+TLR4,Macrophage,1
+MERTK,Macrophage,1
+FCGR3A,Macrophage,1
+MRC1,Macrophage,1
+VSIG4,Macrophage,1
+CD68,Macrophage,1
+PTPRC,Macrophage,1
+FCGR2A,Macrophage,1
+MARCO,Macrophage,1
+ITGAV,Macrophage,1
+LYVE1,Macrophage,1
+FCGR1A,Macrophage,1
+CD200R1,Macrophage,1
+CSF1R,Macrophage,1
+SIGLEC1,Macrophage,1
+LYZ,Macrophage,1
+MSR1,Macrophage,1
+LGALS3,Macrophage,1
+TREM2,Macrophage,1
+CD9,Macrophage,1
+SPP1,Macrophage,1
+CD86,Immune cell,521
+CD14,Immune cell,521
+CD19,Immune cell,521
+CD4,Immune cell,521
+FOXP3,Immune cell,521
+IL6,Immune cell,521
+TNF,Immune cell,521
+CCL2,Immune cell,521
+CD163,Immune cell,521
+CD2,Immune cell,521
+CD6,Immune cell,521
+PTPRC,Immune cell,521
+ANPEP,Immune cell,521
+CD209,Immune cell,521
+CD83,Immune cell,521
+PECAM1,Immune cell,521
+FCGR3A,Immune cell,521
+LYZ,Immune cell,521
+CD3D,Immune cell,521
+NKG7,Immune cell,521
+MS4A1,Immune cell,521
+CPA3,Immune cell,521
+TPSAB1,Immune cell,521
+CEACAM8,Immune cell,521
+CD8A,Immune cell,521
+NCAM1,Immune cell,521
+CD68,Immune cell,521
+ITGAX,Immune cell,521
+TPSB2,Immune cell,521
+FCN1,Immune cell,521
+KLRF1,Immune cell,521
